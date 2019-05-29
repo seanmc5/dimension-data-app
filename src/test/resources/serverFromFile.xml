@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs2:server xmlns:xs2="http://www.opsource.net/simpleapp">
+  <xs2:name>FromFile</xs2:name>
+  <xs2:description>Server from file</xs2:description>
+</xs2:server>
